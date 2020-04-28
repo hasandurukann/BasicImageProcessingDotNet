@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30014.187
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicImageProc", "BasicImageProc\BasicImageProc.csproj", "{CDFC0FB8-AB8F-4634-9A9F-CFCC29661A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDFC0FB8-AB8F-4634-9A9F-CFCC29661A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDFC0FB8-AB8F-4634-9A9F-CFCC29661A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDFC0FB8-AB8F-4634-9A9F-CFCC29661A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDFC0FB8-AB8F-4634-9A9F-CFCC29661A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09FEDDCA-D849-414B-8CB8-7743AC01E550}
+	EndGlobalSection
+EndGlobal
